@@ -15,7 +15,7 @@ Joke fillers:
       3. As a Team
          1. ppb
          2. Teahouse Hosting
-         3. quip
+         3. Python's poly power partners
    2. Setup 1m
       1. Good ideas vs bad ideas
       2. consider setting up a meta joke here. (talk about the maturity of the python tooling space?)
@@ -39,7 +39,8 @@ Joke fillers:
          2. some calculated properties
       2. The Problem to Solve - 1m
       3. The Solution - ?m
-         1. Rushed explanation bit
+         1. Reference the simplicity of bags
+         2. Rushed explanation bit
       4. The Solution's Problems 1m
          1. Departure from the data model
          2. Education problems
@@ -51,6 +52,7 @@ Joke fillers:
       3. The Problems
          1. The layers of deep magic
          2. The "simple" ways to break it
+         3. C Python is like your overly strict mother who won't let you drive the car.
    5. CLI from a Struct - 5m
       1. The Problem
          1. Argparse is great
@@ -61,8 +63,10 @@ Joke fillers:
          1. It started as a shitpost
          2. Structs and type hints can hold a lot of information
          3. But there's lots of edge cases
+            * Enough edge cases to make a graph theorist cry.
       3. The Problems?
          1. It's hard to design an API for complicated clis
+            * API design is a lot like scaling a web service: you don't know how you got it wrong until it's too late.  - aurynn
          2. The implementation is reasonable?
          3. The tooling? (this is the payoff to the "tooling hates us" joke)
       4. Actually Published!
