@@ -15,9 +15,7 @@ Joke fillers:
       3. As a Team
          1. ppb
          2. Teahouse Hosting
-         3. Python's Power Poly Partners
-         4. One company has been dumb enough to hire us together
-            * We were described as "intense", I think we genuinely scared a VC tech bro
+         3. Python's poly power partners
    2. Setup 1m
       1. Good ideas vs bad ideas
          * Most of this could be a good idea, if you have the right problem
@@ -56,6 +54,8 @@ Joke fillers:
             * interruption
             * "but i have 4 more slides"
             * 4 perfect slides
+         1. Reference the simplicity of bags
+         2. Rushed explanation bit
       4. The Solution's Problems 1m
          0. So this was a lot
          1. Departure from the data model
@@ -68,6 +68,7 @@ Joke fillers:
       3. The Problems
          1. The layers of deep magic
          2. The "simple" ways to break it
+         3. C Python is like your overly strict mother who won't let you drive the car.
    5. CLI from a Struct - 5m
       0. "So working on dams and water infrastructure--wait, no, this isn't excavacon"
          * "Yeah, but wine country is right there, i bet there's something like cava"
@@ -81,8 +82,10 @@ Joke fillers:
          2. Structs and type hints can hold a lot of information
          3. But there's lots of edge cases
             * "oops all edges"
+            * Enough edge cases to make a graph theorist cry.
       3. The Problems?
          1. It's hard to design an API for complicated clis
+            * API design is a lot like scaling a web service: you don't know how you got it wrong until it's too late.  - aurynn
          2. The implementation is reasonable?
          3. The tooling? (this is the payoff to the "tooling hates us" joke)
       4. Actually Published!
