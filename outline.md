@@ -78,7 +78,8 @@ Joke fillers:
          3. Complicated
          4. And tooling is only so-so
       2. The Solution?
-         1. It started as a shitpost
+         1. It started as a shitpost (https://gist.github.com/pathunstrom/986592a078c3208514797b6a8c7aabf0)
+            1. click joke?
          2. Structs and type hints can hold a lot of information
          3. But there's lots of edge cases
             * "oops all edges"
