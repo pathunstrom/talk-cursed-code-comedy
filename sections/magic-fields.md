@@ -151,6 +151,18 @@ Python doesn't let you do it otherwise
 
 So first of all, you've outdone yourself this time.
 
-Second, nobody does it this way, nobody even remotely does it this way. Experienced developers will have to paradigm shift. And new developers will forever be puzzled by everyone else.
+== Jamie ==
+
+:D
+
+== Piper ==
+
+Second, nobody does it this way, nobody even remotely does it this way. Experienced developers will have to paradigm shift. New developers will forever be puzzled by everyone else.
+
+== Jamie ==
+
+:(
+
+== Piper ==
 
 Third, while we could teach mypy this, it's perfectly comprehensible hinting, I don't think we want to get into the business of typing plugins.
