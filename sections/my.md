@@ -16,10 +16,3 @@ class Player(Sprite):
     def on_update(my, event, signal):
         my.position += (0, 1)
 ```
-
-You may have caught we've got a bit of a motiff.
-There's a whole alternate timeline where instead of having Scenes, Sprites, and Systems, we had Stages, Sets, Actors, and Crew.
-
-== Jamie ==
-
-It's probably best it went the way of Yorick.
