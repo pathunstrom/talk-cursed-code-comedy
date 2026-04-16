@@ -9,11 +9,21 @@ That is, a module gets loaded the first time its referenced.
 
 == Piper ==
 
-[Extreme Skepticism]
+Oh, yes, "can we do what Ruby does?"
+
+Honestly, it's a reasonable enough question.
 
 == Jamie ==
 
-Yeah, but who hasn't been annoyed in a repl by "name requests is not defined".
+Yeah, who hasn't been annoyed in a repl by "name Any is not defined".
+
+So I can talk about it?
+
+== Piper ==
+
+That is why we're here.
+
+== Jamie ==
 
 So the goal is
 
@@ -32,7 +42,7 @@ Which does several things:
 
 == Piper ==
 
-Well, at least this isn't a proposal for a serious project.
+At least this isn't a proposal for a serious project.
 
 So, do you want to discuss the tools or the complexity first?
 
@@ -51,19 +61,19 @@ It's read only.
 
 == Jamie ==
 
-[Think] Could I replace the calling module object?
+[Think] Could I replace the calling module object in sys.modules?
 
 == Piper ==
 
-Nope, doesn't touch the execution context.
+Nope, doesn't touch the local scope.
 
 == Jamie ==
 
-So uplift the builtins
+So uplift the builtins?
 
 == Piper ==
 
-Same thing
+Same problem.
 
 == Jamie ==
 
