@@ -1,6 +1,6 @@
 # Magic Fields
 
-== Jamie ==
+== Piper ==
 
 One of the things about PPB is that it uses classes and class heirarchies for both behavior inheritance and instance templating--if you want a bunch of sprites to have common properties (eg, the same graphic), you make a sprite subclass with that as a class property
 
@@ -14,6 +14,10 @@ things = [
     Thingy(bottom_right=ppb.Vector(-1, -1)),
 ]
 ```
+
+== Jamie ==
+
+During peak Pursued Py Bear development, one of the things that would happen is that Piper would go somewhere and give a talk about PPB, and then I would watch the talk and I would file bugs for all the things that tripped her up or needed apologies or felt rough. I can say quite well that this model is very easy to teach and works well.
 
 But then you have problems like "oops, vectorish values aren't actually Vectors" and "rotation maybe should be capped" and "position, bottom, top, left, and right are actually different views of the same data".
 
@@ -35,6 +39,12 @@ class Spam(Sprite):
 ```
 
 But we're Python magicians! Witches, even! We can solve this.
+
+== Piper ==
+
+I'm afraid.
+
+== Jamie ==
 
 [attribute resolution flow chart]
 
