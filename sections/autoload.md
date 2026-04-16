@@ -4,7 +4,8 @@
 
 So that's a bust. How about one from a friend.
 
-I got asked if there's a way to do autoload in Python. That is, a module gets loaded the first time its referenced.
+I got asked if there's a way to do autoload in Python.
+That is, a module gets loaded the first time its referenced.
 
 == Piper ==
 
@@ -41,9 +42,12 @@ So, do you want to discuss the tools or the complexity first?
 
 == Piper ==
 
-So every static analysis tool will just throw their hands in the air and give up. But I think you knew that, since you said it's good for repls.
+So every static analysis tool will just throw their hands in the air and give up.
+But I think you knew that, since you said it's good for repls.
 
-The real problem is that I think this amount of pretzel making of Python invoked an eldritch being. Which is what you'll need because you can't actually update the namespace of an existing frame. It's read only.
+The real problem is that I think this amount of pretzel making of Python invoked an eldritch being.
+Which is what you'll need because you can't actually update the namespace of an existing frame.
+It's read only.
 
 == Jamie ==
 
