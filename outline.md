@@ -54,14 +54,14 @@ Joke fillers:
             * interruption
             * "but i have 4 more slides"
             * 4 perfect slides
-         1. Reference the simplicity of bags
-         2. Rushed explanation bit
+         2. Reference the simplicity of bags
+         3. Rushed explanation bit
       4. The Solution's Problems 1m
-         0. So this was a lot
-         1. Departure from the data model
-         2. Education problems
-         3. Affects class declarations
-         4. Also, the tooling (start to rub it in) segue to the auto import madness
+         1. So this was a lot
+         2. Departure from the data model
+         3. Education problems
+         4. Affects class declarations
+         5. Also, the tooling (start to rub it in) segue to the auto import madness
    4. Autoload 5m
       1. The Problem to Solve
       2. The Solution
@@ -70,26 +70,26 @@ Joke fillers:
          2. The "simple" ways to break it
          3. C Python is like your overly strict mother who won't let you drive the car.
    5. CLI from a Struct - 5m
-      0. "So working on dams and water infrastructure--wait, no, this isn't excavacon"
+      1. "So working on dams and water infrastructure--wait, no, this isn't excavacon"
          * "Yeah, but wine country is right there, i bet there's something like cava"
-      1. The Problem
+      2. The Problem
          1. Argparse is great
          2. It has a Bag of a kind (simple namespace)
          3. Complicated
          4. And tooling is only so-so
-      2. The Solution?
+      3. The Solution?
          1. It started as a shitpost (https://gist.github.com/pathunstrom/986592a078c3208514797b6a8c7aabf0)
             1. click joke?
          2. Structs and type hints can hold a lot of information
          3. But there's lots of edge cases
             * "oops all edges"
             * Enough edge cases to make a graph theorist cry.
-      3. The Problems?
+      4. The Problems?
          1. It's hard to design an API for complicated clis
             * API design is a lot like scaling a web service: you don't know how you got it wrong until it's too late.  - aurynn
          2. The implementation is reasonable?
          3. The tooling? (this is the payoff to the "tooling hates us" joke)
-      4. Actually Published!
+      5. Actually Published!
          * logo & link
 3. Outro - 2m
    1. Reach us
