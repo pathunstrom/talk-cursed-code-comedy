@@ -20,7 +20,7 @@ You know what else is always strings?
 
 == Jamie ==
 
-Text files? (Could be anything that is a bunch of text)
+YAML if you do it wrong?
 
 == Piper ==
 
@@ -36,7 +36,7 @@ We've made it clear, we think Python's type system is pretty cool.
 
 Type hinting is like, _the_ tool that made us reject most of these ideas.
 
-One of the worst parts about the standard library argparse is that it returns an untyped bag called a simple namespace.
+One of the worst parts about the standard library argparse is that it returns an untyped bag called a namespace.
 
 == Jamie ==
 
@@ -162,7 +162,7 @@ Wait, you're still working on this?
 
 == Piper ==
 
-Oh, year, this turned out to work well enough that I published it!
+Oh, yeah, this turned out to work well enough that I published it!
 
 I called it dykes.
 

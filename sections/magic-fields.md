@@ -58,7 +58,7 @@ Should the audience be afraid?
 
 == Piper ==
 
-So, yes.
+So, yes, they should.
 
 == Jamie ==
 

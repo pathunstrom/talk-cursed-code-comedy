@@ -12,7 +12,7 @@ Can we clarify "semi-structured data"?
 
 == Piper ==
 
-So... Something JSON shaped?
+So... Something JSON shaped? (slide)
 
 == Jamie ==
 
