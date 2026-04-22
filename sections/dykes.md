@@ -14,13 +14,13 @@ Where are you going with this?
 
 Type annotations. You can put anything you want there.
 
-And if you're using __future__ they all count as strings.
+And if you're using from-future-import they all count as strings.
 
 You know what else is always strings?
 
 == Jamie ==
 
-YAML if you do it wrong?
+YAML if you do it wrong enough?
 
 == Piper ==
 
@@ -127,7 +127,7 @@ Well, how do you add help text to this interface?
 
 == Jamie ==
 
-[idea that isn't Annotated]
+dictionary of strings in a class var?
 
 == Piper ==
 
@@ -170,4 +170,4 @@ Like slang for diagonal cutters: snipping the useful bits out of the command lin
 
 == Jamie ==
 
-More appropriately, Excavacon 2026: earthworks to divide your program from the sea of userland.
+Possibly dykes: earthworks to divide your program from the sea of userland, or Excavacon '26

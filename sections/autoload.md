@@ -35,7 +35,7 @@ requests.get(...)
 
 Which does several things:
 
-1. Check that it's being invoked with the magic runes
+1. Check that it's being invoked with the correct magic runes
 2. Inspect the call stack for the calling module
 3. Hook name handling by updating the namespace with a default dict
 4. Profit!
@@ -61,7 +61,7 @@ It's read only.
 
 == Jamie ==
 
-[Think] Could I replace the calling module object in sys.modules?
+[Think] Could I replace the calling module object in sys dot modules?
 
 == Piper ==
 
@@ -69,7 +69,7 @@ Nope, doesn't touch the local scope.
 
 == Jamie ==
 
-So uplift the builtins?
+So uplift the dunder builtins in the caller's scope?
 
 == Piper ==
 

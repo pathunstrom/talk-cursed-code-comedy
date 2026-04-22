@@ -16,12 +16,12 @@ So... Something JSON shaped? (slide)
 
 == Jamie ==
 
-Oh! Like a REST API without a client!
+Oh! Like an unpopular REST API with no client!
 
-So, if you use dictionaries, you get easy membership (dot-get, the in operator),
-but data access is four punctuation instead of one. 
+So, if you use dictionaries, you get easy membership with dot-get and the in operator,
+but data access is a quoted string and brackets. 
 
-But, if you use classes (what I call "structs"), data access now requires one
+Instead, if you use classes (what I call "structs"), data access now requires one
 punctuation but conditional access now involves get-attr and has-attr. Plus,
 many struct libraries require you to define your schema before you can use it.
 
@@ -33,7 +33,7 @@ What's your solution?
 
 == Jamie ==
 
-So let shove all the data into a bag. Specifically a data bag: a data holder
+So let shove all the data into a bag--a data bag: a data holder
 that acts like both a map and a struct.
 
 == Piper ==

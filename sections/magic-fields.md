@@ -22,7 +22,7 @@ things = [
 
 During peak Pursued Py Bear development, one of the things that would happen is that Piper would go somewhere and give a
 talk about PPB, and then I would watch the talk and I would file bugs for all the things that tripped her up or needed
-apologies or felt rough. I can say quite well that this model is very easy to teach and works well.
+apologies or felt rough. I can say quite well that PPB is very easy to teach and works well.
 
 But then you have problems like "oops, vectorish values aren't actually Vectors" and "rotation maybe should be capped"
 and "position, bottom, top, left, and right are actually different views of the same data".
