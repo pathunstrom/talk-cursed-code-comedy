@@ -52,9 +52,11 @@ Should the audience be afraid?
 
 == Jamie ==
 
--- Explain the basics of attribute lookup order --
+Ok, we need to start with the attribute lookup order
 
-[attribute resolution flow chart]
+[attribute resolution flow chart, credit: https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/ ]
+
+You have data descriptors, the instance dictionary, the class dictionary, the MRO, descriptors, and a sprinkling of dunder methods. Just note that any time this says class dunder dict, it's actually multiple lookups down the MRO linearization.
 
 == Piper ==
 
