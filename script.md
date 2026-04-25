@@ -306,7 +306,9 @@ build out a dunder fields to keep it all in.
 
 We can ignore the earlier diagram because those attributes have been explicitly declared, and we know exactly what to do
 with them. Just gotta override dunder get attribute, dunder set attr, and dunder del attr to plumb in the descriptors we
-set aside earlier. Easy enough, everyone in this room has done that, right? [mild sarcasm]
+set aside earlier.
+
+Easy enough, everyone in this room has done that, right? [looooooooooooooooooooong pause]
 
 ```python
     def __setattr__(self, name, value):
@@ -441,11 +443,13 @@ class Player(Sprite):
         my.position += (0, 1)
 ```
 
+[Long pause]
+
 # Autoload
 
 == Jamie ==
 
-So that's a bust. How about one from a friend.
+How about one from a friend.
 
 I got asked if there's a way to do autoload in Python.
 That is, a module gets loaded the first time its referenced.
