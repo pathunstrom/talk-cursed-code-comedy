@@ -1,31 +1,50 @@
 # Intro
 
-== Piper ==
-
-Thanks Chris [ad-lib quip]
-
-I'm Piper Thunstrom, known for bleeding on stage, writing a little game engine, and being a menace about community management.
-Career involving business school, writing, game dev, and data engineering.
-You can find me online at @pathunstrom@ngmx.com, @pathunstrom.bsky.social, and piper.thunstrom.dev
-
 == Jamie ==
 
-I'm Jamie Bliss, less well known for writing the same little game engine and too much open source, with a career starting with teenage midnight code and downhill from there.
-You can find me online at @astraluma@tacobelllabs.net and qwertyuiop.ninja
+[ad lib]
+
+She's Piper Thunstrom, known for bleeding on stage, writing a little game engine, and being a menace about community management.
 
 == Piper ==
 
-Together, we wrote the game engine PursuedPyBear, starting a web company Teahouse Hosting, and convinced one startup to hire us together.
+I'm also a business school survivor, writer, game dev, and get paid to make really big queries.
+
+She's Jamie Bliss, less well known for writing the same little game engine and way too much open source.
 
 == Jamie ==
 
-He called us "intense".
-I think we scared him a little.
+My career started with teenage midnight code and went downhill from there.
+
+== Piper ==
+
+You can find me on the fediverse @pathunstrom@ngmx.com.
+
+== Jamie ==
+
+And I'm @astraluma@TacoBellLabs.net
+
+== Piper ==
+
+Together, we're the maintainers of PursuedPyBear.
+
+== Jamie ==
+
+We started Teahouse Hosting, making the web easier for everyone.
+
+== Piper ==
+
+And we even convinced a start up to hire both of us one time.
+
+== Jamie ==
+
+We got called "intense".
+I think we scared them a little.
 
 == Piper ==
 
 As python's poly power partners, we throw ideas at each other a lot.
-Some of them are good ideas
+Some of them are good ideas. . .
 
 == Jamie ==
 
@@ -41,5 +60,6 @@ Like setuptools (2026)
 
 == Piper ==
 
-So we thought that instead of just leaving them in discord histories, maybe we can make a talk out of them.
+So we thought that instead of just leaving them in discord histories and closed PRs, maybe we can make a talk out of them.
+
 And North Bay Python was silly enough to give us a slot to do so.

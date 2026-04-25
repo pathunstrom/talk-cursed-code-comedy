@@ -1,15 +1,26 @@
 # Self -> my
 
+== Piper ==
+
+One of the strengths of Python is how readable it is.
+
+I take pride in my ability to write good python code that people with no coding background can read.
+
+But there is one place that convention makes the code sound. . . odd.
+
 == Jamie ==
 
-We mentioned a game engine, PursuedPyBear. It's made for ease of learning and ease of use.
-Based on how sprints and talks have gone, we think we've largely succeeded
+Neither of us have had voice training, so we probably both sound odd
 
 == Piper ==
 
-But we're always looking for ways to improve. In particular, with very newbies.
+We use "self" for the instance variable.
 
-We want to help people getting into Python for game development to stop thinking of themselves in such dissociated terms, so we discussed moving from self to my, which would help them take ownership of their code.
+self.position sounds so dissociated.
+
+If we moved to "my" we would be able to write code that takes ownership of its own properties.
+
+With `my.position += Up` the code reads a lot more like English.
 
 ```
 class Player(Sprite):
